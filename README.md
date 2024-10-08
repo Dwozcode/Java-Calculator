@@ -48,10 +48,6 @@ Contributions to the project are highly appreciated. If you find any bugs, have 
 
 Special thanks to the Brototype YouTube channel for the inspiring coding challenge that led to the creation of this Java Calculator.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
 
 Happy calculating! If you have any questions, feedback, or encounter any issues with the Java Calculator project, please don't hesitate to reach out. Enjoy coding!
